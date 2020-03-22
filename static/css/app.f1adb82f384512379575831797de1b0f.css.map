@@ -1,1 +1,0 @@
-{"version":3,"sources":["app.f1adb82f384512379575831797de1b0f.css"],"names":[],"mappings":"AACA,wBACI,kBACJ,CAEA,uBACI,aACJ","file":"app.f1adb82f384512379575831797de1b0f.css","sourcesContent":["\n.email[data-v-1b9ebb22] {\n    padding-right: 10px;\n}\n\n.text[data-v-0ff7fb18] {\n    color: inherit;\n}\n"]}
